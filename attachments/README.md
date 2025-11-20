@@ -1,0 +1,1 @@
+This folder is for PDFs, images, charts, and other reference material attachments.

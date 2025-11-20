@@ -1,0 +1,1 @@
+This folder is meant for daily and weekly news summaries and current affairs notes.

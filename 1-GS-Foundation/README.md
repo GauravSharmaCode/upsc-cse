@@ -1,0 +1,1 @@
+This folder contains core General Studies subjects including History, Geography, Polity, Economy, and Environment.
