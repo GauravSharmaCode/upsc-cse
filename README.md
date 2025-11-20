@@ -1,132 +1,118 @@
-# UPSC CSE Prep - Knowledge Vault
+# UPSC CSE Prep – Knowledge Vault
 
-> Your central hub for all UPSC preparation notes, summaries, and linked concepts.  
-> Built with **Obsidian** + **Markdown** + **Git** for easy versioning and access anywhere.
-
----
-
-## Table of Contents
-
-- Overview
-    
-- Vault Structure
-    
-- How to Use
-    
-- Graph Map
-    
-- Contributing
-    
-- License
-    
+> A structured, interlinked, version-controlled vault for UPSC CSE preparation. Built using **Obsidian + Markdown + Git**, designed for long-term revision, deep linking, and multi-source knowledge integration.
 
 ---
 
 ## Overview
 
-This repository is a personal knowledge vault for UPSC CSE preparation.  
-It contains:
+This repository functions as a personal **UPSC knowledge system**, containing:
 
-- **Static Notes** – NCERTs, reference books, PDFs summarized into Markdown.
-    
-- **Current Affairs** – Daily/weekly summaries and highlights.
-    
-- **Interlinked Concepts** – Using Obsidian’s graph-style links to connect topics.
-    
-- **Revision Notes** – Condensed versions of topics for quick review.
-    
+- **Static Notes** from NCERTs, reference books, and standard sources
+- **Current Affairs** with daily, weekly, and topic-wise breakdowns
+- **Interlinked Concepts** using Obsidian WikiLinks
+- **MOC Pages (Maps of Content)** for hierarchical navigation
+- **Templates** to standardize note-taking
+- **Practice** folders for PYQs, answer writing, and mock work
 
-> The goal: **club knowledge from multiple sources** in one place, ready for deep linking and quick reference.
+The goal is simple: **Combine theory, GS, and current affairs into one cohesive linked knowledge base.**
 
 ---
 
-## Vault Structure
+### Why this structure works
 
-```text
-root/
-│
-├─ 0-Index/           # Main table of contents and roadmap
-├─ 1-GS-Foundation/   # General Studies core subjects (History, Geography, Polity, Economy, Environment)
-├─ 2-Current-Affairs/ # Daily/weekly news, summaries
-├─ 3-Optional-Subjects/
-├─ 4-Misc/            # Strategy, answer writing, essays, prelims MCQs
-└─ attachments/       # PDFs, images, charts
+- Shallow hierarchy keeps graph clean
+- MOCs centralized in **00-Index**
+- Static notes isolated from Current Affairs
+- Templates grouped for automation
+- Assets kept out of graph clutter
+- Git-friendly and future-proof
+- Easy for IDE or AI agents to operate on
+
+---
+
+## How to Use the Vault
+
+### On Desktop (Windows/Linux/macOS)
+
+1. Open vault in Obsidian
+2. Start navigating from `00-Index/`
+3. Use templates for creating consistent notes
+4. Link everything using `[[WikiLinks]]`
+5. Keep Current Affairs in `20-Current-Affairs/`
+6. Use `10-Static/` for evergreen notes
+
+Commit routinely:
+
 ```
-
-> **Tip:** Keep file names short, consistent, and chronological for CA notes.  
-> Use `[[WikiLinks]]` for interlinking related concepts across subjects.
-
----
-
-## How to Use
-
-### On Windows
-
-1. Clone the repo:
-    
-    ```bash
-    git clone https://github.com/<your-username>/upsc-vault.git
-    ```
-    
-2. Open the folder in **Obsidian**.
-    
-3. Start creating notes in Markdown, using `[[links]]` to connect topics.
-    
-4. Commit and push changes regularly:
-    
-    ```bash
-    git add .
-    git commit -m "Added notes for XYZ"
-    git push
-    ```
-    
+git add .
+git commit -m "Updated notes"
+git push
+```
 
 ### On Android
 
-- Use **Obsidian Mobile** with **Git integration** (or third-party sync like GitJournal) for reading/reviewing.
-    
-- Avoid heavy editing; focus on reviewing and lightweight note-taking.
-    
+- Great for reading and light edits
+- Sync via Obsidian Git plugin or GitJournal
+- Avoid heavy reorganizing
+- Perfect for adding CA notes
 
 ---
 
-## Graph Map
+## Graph Map Philosophy
 
-A minimal overview of how topics interlink (for mental visualization):
+Goal is **clusters, not chaos**.
 
-```text
-                [0-Index]
-                     |
-    -----------------------------------
-    |               |                 |
-[1-GS]        [2-Current]       [3-Optional]
-    |               |                 |
-History ...  CA Week 1 ...    Subject Notes ...
-Geography ...  CA Week 2 ...
-Polity ...
-Economy ...
-Environment ...
-```
+- MOCs form top-level hubs
+- Static notes form dense GS clusters
+- CA links back to fundamentals
+- Practice connects across subjects
 
-> Use Obsidian’s graph view to see real-time links and clusters between topics.
+This creates a concept web ideal for Mains-oriented revision.
+
+---
+
+## Templates Included
+
+Located in: `00-Index/_templates/`
+
+### `_template-topic.md`
+
+For static GS notes.
+
+### `_template-ca.md`
+
+For Current Affairs.
+
+### `_template-moc.md`
+
+For Maps of Content.
+
+---
+
+## Automation & AI Integration
+
+The `.ai/rules.md` file supports:
+
+- Auto-generating folder trees
+- Naming consistency
+- Template insertion
+- Auto-linking related notes
+- Running summarisation tools
+
+Your vault is fully AI-ready.
 
 ---
 
 ## Contributing
 
-This is primarily a personal vault, but if you want to fork or suggest improvements:
-
-- Fork the repo.
-    
-- Create a branch for your changes.
-    
-- Submit a pull request with clear commits.
-    
-
-> Keep notes consistent with existing structure and Markdown conventions.
+1. Fork repo
+2. Create branch
+3. Commit
+4. Open PR
 
 ---
 
 ## License
 
-MIT License – feel free to clone, fork, and use for personal study.
+MIT License

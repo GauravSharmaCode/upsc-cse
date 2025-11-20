@@ -1,0 +1,11 @@
+# Obsidian workspace files (optional - remove if you want to track workspace state)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*~

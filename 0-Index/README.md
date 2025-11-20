@@ -1,1 +1,0 @@
-This folder contains the main table of contents and roadmap for the UPSC vault.
