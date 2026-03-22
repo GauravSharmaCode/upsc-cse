@@ -11,10 +11,14 @@
             "id": "a01179cd269beaf6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "10-Static/Polity-Historical-Background.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Polity-Historical-Background"
             }
           }
         ]
@@ -164,6 +168,15 @@
   },
   "active": "a01179cd269beaf6",
   "lastOpenFiles": [
+    "10-Static/Polity-Historical-Background.md",
+    "00-Index/MOC-Polity.md",
+    "GEMINI.md",
+    "10-Static/Polity-Governor-Generals-Bengal.md",
+    "10-Static/Polity-Charter-Acts.md",
+    "00-Index/MOC-Environment.md",
+    "10-Static/Geography-Insolation.md",
+    "10-Static/Geography-Climate.md",
+    "00-Index/_templates/_template-topic.md",
     "10-Static/Geography-Atmosphere.md",
     "00-Index/MOC-Geography.md",
     "00-Index/MOC-GS.md",
@@ -171,12 +184,9 @@
     "README.md",
     "1-GS-Foundation/Geography/Climate/Atmosphere.md",
     "00-Index/MOC-Current-Affairs.md",
-    "00-Index/MOC-Environment.md",
-    "00-Index/MOC-Polity.md",
     "00-Index/MOC-History.md",
     "00-Index/_templates/_template-moc.md",
     "00-Index/_templates/_template-ca.md",
-    "00-Index/_templates/_template-topic.md",
     "00-Index/_templates",
     "assets/README.md",
     "40-Practice/README.md",
@@ -192,13 +202,7 @@
     "1-GS-Foundation/Geography/Climate/README.md",
     "1-GS-Foundation/Geography/Climate",
     "1-GS-Foundation/Geography/README.md",
-    "attachments/README.md",
     "1-GS-Foundation/Geography",
-    "4-Misc/README.md",
-    "3-Optional-Subjects/README.md",
-    "2-Current-Affairs/README.md",
-    "1-GS-Foundation/README.md",
-    "0-Index/README.md",
     "attachments"
   ]
 }

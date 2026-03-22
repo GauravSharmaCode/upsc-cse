@@ -8,6 +8,7 @@ Short: Indian Constitution, governance, and political system for GS Paper 2.
 
 ## Core topics
 
+- [[Polity-Historical-Background]]
 - [[Polity-Constitution]]
 - [[Polity-Fundamental-Rights]]
 - [[Polity-Parliament]]
