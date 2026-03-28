@@ -8,17 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a01179cd269beaf6",
+            "id": "2483717c7dbc54bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "release-notes",
               "state": {
-                "file": "10-Static/Polity-Historical-Background.md",
-                "mode": "source",
-                "source": false
+                "currentVersion": "1.10.3"
               },
-              "icon": "lucide-file",
-              "title": "Polity-Historical-Background"
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "327963d59b7910fe",
@@ -166,43 +165,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "a01179cd269beaf6",
+  "active": "2483717c7dbc54bc",
   "lastOpenFiles": [
+    "CA-Science-Tech.md",
+    "40-Practice/PYQ-2025/PYQ-Index-2025.md",
+    "40-Practice/PYQ-2025/PYQ-2025-Science-Technology.md",
+    "40-Practice/PYQ-2025/PYQ-2025-Polity.md",
+    "40-Practice/PYQ-2025/PYQ-2025-International-Relations.md",
+    "40-Practice/PYQ-2025/PYQ-2025-History-Modern.md",
+    "40-Practice/PYQ-2025/PYQ-2025-History-Ancient-Medieval.md",
+    "40-Practice/PYQ-2025/PYQ-2025-Geography.md",
+    "40-Practice/PYQ-2025/PYQ-2025-Environment-Ecology.md",
+    "40-Practice/PYQ-2025/PYQ-2025-Economy.md",
+    "40-Practice/PYQ-2025",
+    "assets/README.md",
+    "assets",
+    "40-Practice/README.md",
+    "40-Practice",
+    "30-Optional/README.md",
+    "30-Optional",
+    "20-Current-Affairs/README.md",
+    "20-Current-Affairs",
     "10-Static/Polity-Historical-Background.md",
-    "00-Index/MOC-Polity.md",
-    "GEMINI.md",
     "10-Static/Polity-Governor-Generals-Bengal.md",
     "10-Static/Polity-Charter-Acts.md",
-    "00-Index/MOC-Environment.md",
     "10-Static/Geography-Insolation.md",
-    "10-Static/Geography-Climate.md",
-    "00-Index/_templates/_template-topic.md",
     "10-Static/Geography-Atmosphere.md",
-    "00-Index/MOC-Geography.md",
-    "00-Index/MOC-GS.md",
-    "00-Index/MOC-Economy.md",
-    "README.md",
-    "1-GS-Foundation/Geography/Climate/Atmosphere.md",
-    "00-Index/MOC-Current-Affairs.md",
-    "00-Index/MOC-History.md",
+    "10-Static/Geography-Climate.md",
+    "10-Static",
+    "00-Index/_templates/_template-topic.md",
     "00-Index/_templates/_template-moc.md",
     "00-Index/_templates/_template-ca.md",
+    "00-Index/MOC-History.md",
     "00-Index/_templates",
-    "assets/README.md",
-    "40-Practice/README.md",
-    "30-Optional/README.md",
-    "20-Current-Affairs/README.md",
     "00-Index/README.md",
-    "assets",
-    "40-Practice",
-    "30-Optional",
-    "20-Current-Affairs",
-    "10-Static",
+    "00-Index/MOC-Polity.md",
     "00-Index",
-    "1-GS-Foundation/Geography/Climate/README.md",
-    "1-GS-Foundation/Geography/Climate",
-    "1-GS-Foundation/Geography/README.md",
-    "1-GS-Foundation/Geography",
-    "attachments"
+    "attachments",
+    "4-Misc"
   ]
 }
