@@ -20,3 +20,8 @@ Short: Ancient, medieval, and modern Indian history for GS Paper 1.
 ## Important links / timelines
 
 - [[History-Timeline]]
+
+## Related MOCs
+
+- [[MOC-GS]]
+- [[MOC-Current-Affairs]]

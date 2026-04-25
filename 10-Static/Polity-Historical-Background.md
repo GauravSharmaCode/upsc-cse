@@ -7,6 +7,7 @@ aliases:
   - Charter Act 1833
   - Charter Act 1853
   - GOI Act 1858
+  - Indian Councils Act 1861
   - Morley-Minto 1909
   - Mont-Ford 1919
   - GOI Act 1935
@@ -44,61 +45,83 @@ The Indian Constitution has its roots in various laws and acts passed during the
 ---
 
 ### 1. The Company Rule (1773–1858)
+
 - **[[Regulating Act of 1773]]**:
     - **Distinguishing Fact**: First step of **Centralization**; laid the foundation of central administration in India.
     - **1950 Link**: Setup of the Supreme Court at Calcutta (1774) is the precursor to **Article 124**.
-    - > [!NOTE]
-    - > The Governor of Bengal became the **Governor-General of Bengal** (Warren Hastings) and was assisted by an Executive Council of **4 members**.
-- **[[Pitt’s India Act of 1784]]**:
+    > [!NOTE]
+    > The Governor of Bengal became the **Governor-General of Bengal** (Warren Hastings) and was assisted by an Executive Council of **4 members**.
+
+- **[[Pitt's India Act of 1784]]**:
     - **Distinguishing Fact**: For the first time, EIC's territories were called **'British possessions in India'**.
-    - > [!WARNING]
-    - > Established **'Double Government'** (Board of Control for political + Court of Directors for commercial). Do NOT confuse this with 'Dyarchy'.
+    > [!WARNING]
+    > Established **'Double Government'** (Board of Control for political affairs + Court of Directors for commercial). Do NOT confuse this with 'Dyarchy' introduced in 1919.
+
 - **[[Charter Act of 1833]]**:
-    - **Distinguishing Fact**: **Final step towards centralization**; EIC became a purely administrative body.
+    - **Distinguishing Fact**: **Final step towards centralization**; EIC became a purely administrative body, commercial monopoly ended.
     - **1950 Link**: First Law Commission under Macaulay (precursor to **Article 372** and Law Commissions).
-    - > [!TIP]
-    - > **1833** = **3** (Governor General of India) + **3** (End of Company's Commercial activities).
+    > [!TIP]
+    > **1833** → First **Governor-General of India** (Lord William Bentinck, previously GG of Bengal) + End of EIC's commercial monopoly including tea/China trade.
+
 - **[[Charter Act of 1853]]**:
-    - **Distinguishing Fact**: Legislative and Executive functions of the GG's Council were **separated** for the first time.
-    - > [!NOTE]
-    - > Introduced open competition for [[Civil Services in India]] (Macaulay Committee, 1854).
+    - **Distinguishing Fact**: Legislative and Executive functions of the GG's Council were **separated** for the first time. A separate 6-member Legislative Council was created.
+    > [!NOTE]
+    > Introduced open competition for [[Civil Services in India]] — recommended by Macaulay Committee (1854). This is the origin of the modern UPSC system.
+
+---
 
 ### 2. The Crown Rule (1858–1947)
+
 - **[[Government of India Act of 1858]]**:
-    - **Distinguishing Fact**: Abolished 'Double Government' and created the office of **Secretary of State (SoS)**.
-    - > [!WARNING]
-    - > Known as the 'Act for Good Government', but it only changed the administrative machinery, not the system of government.
+    - **Distinguishing Fact**: Abolished 'Double Government'; created the office of **Secretary of State for India** (member of British Cabinet) assisted by a 15-member Council.
+    - First Viceroy of India: **Lord Canning**.
+    > [!WARNING]
+    > Known as the 'Act for Good Government of India', but it only changed the *administrative machinery* (who controlled India), not the *system of government* itself.
+
 - **[[Indian Councils Act of 1861]]**:
-    - **Distinguishing Fact**: Initiated the process of **Decentralization** by restoring legislative powers to Bombay and Madras.
-    - **1950 Link**: Power to issue **Ordinances** during emergencies (traced to **Article 123/213**).
+    - **Distinguishing Fact**: Initiated **Decentralization** by restoring legislative powers to Bombay and Madras presidencies.
+    - Introduced the **Portfolio System** — precursor to the modern Cabinet system.
+    - Indians were **nominated** (not elected) to legislative councils for the first time.
+    - **1950 Link**: Power to issue **Ordinances** during emergencies traced to **Article 123/213**.
+    > [!WARNING]
+    > Indians were **nominated**, not elected. Election of Indians to councils came only with the 1909 Act. Don't confuse the two.
+
 - **[[Morley-Minto Reforms (1909)]]**:
-    - **Distinguishing Fact**: **Legalized Communalism**; first Indian (S.P. Sinha) joined the Viceroy's Executive Council.
-    - > [!NOTE]
-    - > Lord Minto is known as the **'Father of Communal Electorate'**.
+    - **Distinguishing Fact**: **Legalized Communalism** via separate electorate for Muslims; first Indian (S.P. Sinha) joined the Viceroy's Executive Council.
+    > [!NOTE]
+    > Lord Minto is known as the **'Father of Communal Electorate'**. The Muslim League's Simla Delegation (1906) under Aga Khan lobbied for this — the British used it to split Congress-Muslim unity.
+
 - **[[Montagu-Chelmsford Reforms (1919)]]**:
-    - **Distinguishing Fact**: Introduced **Direct Elections** and **Bicameralism** at the Center for the first time.
-    - **1950 Link**: Establishment of a Public Service Commission (Art 315) - Central PSC set up in 1926.
-    - > [!TIP]
-    - > Remember: **Dyarchy at Provinces** in 1919. (Dyarchy = Dual Rule).
+    - **Distinguishing Fact**: Introduced **Direct Elections** and **Bicameralism** at the Centre for the first time.
+    - **1950 Link**: Establishment of a Public Service Commission — Central PSC set up in 1926 (**Article 315**).
+    > [!TIP]
+    > **Dyarchy at Provinces** in 1919: subjects split into **Transferred** (ministers responsible to legislature) and **Reserved** (under Governor). Dyarchy = dual/divided rule at provincial level only.
+
 - **[[Government of India Act of 1935]]**:
-    - **Distinguishing Fact**: Introduced **Provincial Autonomy** and envisioned an **All-India Federation**.
-    - **1950 Link**: ~75% of the 1950 Constitution, including **Emergency Provisions (Art 352-360)** and the **Federal Scheme**.
-    - > [!WARNING]
-    - > Abolished Dyarchy in provinces but introduced it at the **Center** (though never implemented).
+    - **Distinguishing Fact**: Introduced **Provincial Autonomy** (Dyarchy in provinces abolished) and envisioned an **All-India Federation** including princely states.
+    - **1950 Link**: ~75% of the 1950 Constitution — **Emergency Provisions (Art 352–360)**, Federal Scheme, Governor's powers, Public Service Commissions, Federal Court (est. 1937).
+    > [!WARNING]
+    > The Act introduced Dyarchy at the **Federal/Centre level** (not provinces). However, the All-India Federation itself **never came into existence** because the required number of princely states never acceded. So Federal Dyarchy was never implemented in practice.
+
+- **[[Indian Independence Act of 1947]]**:
+    - **Distinguishing Fact**: Ended British rule; created two independent dominions — India and Pakistan. Constituent Assemblies of both were given full legislative powers.
+    > [!NOTE]
+    > The term **'Emperor of India'** was dropped from the royal titles of the British King. Both dominions were free to remain in or leave the Commonwealth.
 
 ---
 
 ## Prelims MCQ Triggers
-- **1773**: Warren Hastings was the FIRST GG of Bengal; Council had 4 members.
-- **1784**: Double Government = Board of Control (Political) + Court of Directors (Commercial).
-- **1833**: Lord William Bentinck was the FIRST GG of India; EIC monopoly in tea/China trade ended.
-- **1853**: Separation of Legislative (6 members) and Executive functions; Macaulay Committee (1854).
-- **1858**: Lord Canning was the FIRST Viceroy; SoS was a member of the British Cabinet.
-- **1909**: Separate electorate for Muslims; S.P. Sinha was the first Indian in Viceroy's Council.
-- **1919**: Subjects divided into **Transferred** and **Reserved** (Dyarchy) at the provincial level.
-- **1935**: Residuary powers were given to the **Viceroy**, not the Federal/Provincial legislatures.
-- **1935**: Establishment of RBI (1935), Federal Court (1937), and Provincial PSCs.
-- **1947**: Term 'Emperor of India' dropped from the royal titles of the King of England.
+
+- **1773**: Warren Hastings was the FIRST Governor-General of Bengal; his Executive Council had **4 members**.
+- **1784**: Double Government = Board of Control (Political) + Court of Directors (Commercial). Not the same as Dyarchy.
+- **1833**: Lord William Bentinck was the FIRST Governor-General of **India** (not Bengal); EIC's commercial monopoly ended.
+- **1853**: Separation of Legislative (6-member council) and Executive functions; Macaulay Committee recommended open civil services exam (1854).
+- **1858**: Lord Canning was the FIRST Viceroy; Secretary of State for India was a member of the British Cabinet with a 15-member advisory Council.
+- **1861**: Portfolio system introduced; Indians **nominated** (not elected) to councils; legislative powers restored to Bombay and Madras.
+- **1909**: Separate electorate for Muslims; S.P. Sinha was the first Indian in Viceroy's Executive Council; Lord Minto = Father of Communal Electorate.
+- **1919**: Subjects divided into **Transferred** and **Reserved** (Dyarchy) at the **provincial** level only; Direct elections and Bicameralism introduced at the Centre.
+- **1935**: Residuary powers given to the **Viceroy** (not Federal or Provincial legislatures); RBI established (1935); Federal Court established (1937).
+- **1947**: 'Emperor of India' title dropped; both India and Pakistan became independent dominions with sovereign Constituent Assemblies.
 
 ---
 
@@ -110,7 +133,7 @@ The constitutional evolution is deeply linked to the [[Socio-Religious Reform Mo
 ### **Current Affairs Correlation**
 - **[[Uniform Civil Code (UCC)]]**: Often compared to British-era personal laws.
 - **[[Civil Services Reforms]]**: The debate on lateral entry often references the foundation laid by the [[Charter Act of 1853]].
-- **[[Federalism]]**: Modern-day center-state relations (GST Council, Finance Commission) trace their roots to the decentralization started in the [[Indian Councils Act of 1861]].
+- **[[Federalism]]**: Modern-day centre-state relations (GST Council, Finance Commission) trace their roots to the decentralization started in the [[Indian Councils Act of 1861]].
 
 ---
 

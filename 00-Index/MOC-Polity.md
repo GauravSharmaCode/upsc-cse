@@ -25,3 +25,8 @@ Short: Indian Constitution, governance, and political system for GS Paper 2.
 ## Important links / timelines
 
 - [[Constitutional-Amendments]]
+
+## Related MOCs
+
+- [[MOC-GS]]
+- [[MOC-Current-Affairs]]

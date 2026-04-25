@@ -22,3 +22,8 @@ Short: Central hub for all General Studies subjects and cross-cutting themes.
 ## Important links / timelines
 
 - [[MOC-Current-Affairs]]
+
+## Related MOCs
+
+- [[MOC-Optional]]
+- [[MOC-Practice]]

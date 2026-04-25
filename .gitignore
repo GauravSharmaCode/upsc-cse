@@ -9,3 +9,6 @@ Thumbs.db
 # Temporary files
 *.tmp
 *~
+
+# MCP cache
+.mcp-schema-cache.db

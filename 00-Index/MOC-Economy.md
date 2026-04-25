@@ -21,3 +21,8 @@ Short: Indian economy, economic development, and policy for GS Paper 3.
 ## Important links / timelines
 
 - [[Economic-Surveys]]
+
+## Related MOCs
+
+- [[MOC-GS]]
+- [[MOC-Current-Affairs]]
