@@ -17,11 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.34265664094598336,
+  "scale": 0.3426566409459832,
   "close": true
-=======
-  "scale": 0.7132754626224451,
-  "close": false
->>>>>>> feature/vault-updates
 }

@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2483717c7dbc54bc",
+            "id": "a01179cd269beaf6",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "10-Static/Geography-Atmosphere.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Geography-Atmosphere"
+            }
+          },
+          {
+            "id": "4761df650243e438",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "327963d59b7910fe",
@@ -165,43 +177,43 @@
       "bases:Create new base": false
     }
   },
-  "active": "2483717c7dbc54bc",
+  "active": "15747c0eabeaf4fa",
   "lastOpenFiles": [
-    "CA-Science-Tech.md",
-    "40-Practice/PYQ-2025/PYQ-Index-2025.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Science-Technology.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Polity.md",
-    "40-Practice/PYQ-2025/PYQ-2025-International-Relations.md",
-    "40-Practice/PYQ-2025/PYQ-2025-History-Modern.md",
-    "40-Practice/PYQ-2025/PYQ-2025-History-Ancient-Medieval.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Geography.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Environment-Ecology.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Economy.md",
-    "40-Practice/PYQ-2025",
+    "10-Static/History-Ancient-India.md",
+    "00-Index/MOC-GS.md",
+    "History-Ancient-India.md",
+    "00-Index/MOC-History.md",
     "assets/README.md",
-    "assets",
     "40-Practice/README.md",
-    "40-Practice",
     "30-Optional/README.md",
-    "30-Optional",
     "20-Current-Affairs/README.md",
-    "20-Current-Affairs",
-    "10-Static/Polity-Historical-Background.md",
-    "10-Static/Polity-Governor-Generals-Bengal.md",
-    "10-Static/Polity-Charter-Acts.md",
-    "10-Static/Geography-Insolation.md",
-    "10-Static/Geography-Atmosphere.md",
     "10-Static/Geography-Climate.md",
-    "10-Static",
+    "10-Static/Geography-Insolation.md",
+    "10-Static/Polity-Charter-Acts.md",
+    "10-Static/Polity-Governor-Generals-Bengal.md",
+    "10-Static/Polity-Historical-Background.md",
+    "00-Index/MOC-Polity.md",
+    "GEMINI.md",
+    "00-Index/MOC-Environment.md",
     "00-Index/_templates/_template-topic.md",
+    "10-Static/Geography-Atmosphere.md",
+    "00-Index/MOC-Geography.md",
+    "00-Index/MOC-Economy.md",
+    "README.md",
+    "1-GS-Foundation/Geography/Climate/Atmosphere.md",
+    "00-Index/MOC-Current-Affairs.md",
     "00-Index/_templates/_template-moc.md",
     "00-Index/_templates/_template-ca.md",
-    "00-Index/MOC-History.md",
     "00-Index/_templates",
     "00-Index/README.md",
-    "00-Index/MOC-Polity.md",
+    "assets",
+    "40-Practice",
+    "30-Optional",
+    "20-Current-Affairs",
+    "10-Static",
     "00-Index",
-    "attachments",
-    "4-Misc"
+    "1-GS-Foundation/Geography/Climate",
+    "1-GS-Foundation/Geography",
+    "attachments"
   ]
 }
