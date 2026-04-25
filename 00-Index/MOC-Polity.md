@@ -14,6 +14,7 @@ Short: Indian Constitution, governance, and political system for GS Paper 2.
 - [[Polity-Constitution]]
 - [[Polity-Fundamental-Rights]]
 - [[Polity-Parliament]]
+- [[Polity-President-of-India]]
 - [[Polity-Judiciary]]
 - [[Polity-Federalism]]
 
