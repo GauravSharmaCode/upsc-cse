@@ -8,31 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2483717c7dbc54bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10-Static/Polity-President of India.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Polity-President of India"
-            }
-          },
-          {
             "id": "9ba5da70dd417f4a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Alternative Powertrains.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Alternative Powertrains"
+              "title": "New tab"
             }
           },
           {
@@ -196,6 +178,8 @@
   },
   "active": "15747c0eabeaf4fa",
   "lastOpenFiles": [
+    "00-Index/MOC-Science-Technology.md",
+    "10-Static/Polity-President-of-India.md",
     "10-Static/Science-Alternative-Powertrains.md",
     "gemini/plans/2026-04-25-vault-restructuring-plan.md",
     "gemini/plans/2026-04-25-vault-restructuring.md",
@@ -221,8 +205,6 @@
     "assets/README.md",
     "assets/VisionIAS_UPSC_GS_2024_Solution_Analysis_Explanation.pdf",
     "PYQ-2024-History-Ancient-Medieval.md",
-    "00-Index/README.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Geography.md",
     "40-Practice/PYQ-2024",
     "gemini/plans",
     "gemini",
