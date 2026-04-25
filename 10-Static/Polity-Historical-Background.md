@@ -19,7 +19,6 @@ sources:
   - M. Laxmikanth - Indian Polity
   - NCERT Class 11 - Indian Constitution at Work
 ---
-
 # Polity - Historical Background
 
 **Summary (2–3 lines)**
@@ -142,5 +141,3 @@ The constitutional evolution is deeply linked to the [[Socio-Religious Reform Mo
 
 - [[MOC-Polity]]
 - [[Polity-Constitution-Making]]
-- [[MOC-History]]
-- [[MOC-Current-Affairs]]

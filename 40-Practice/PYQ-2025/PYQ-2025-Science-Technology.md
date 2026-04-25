@@ -29,7 +29,7 @@ How many of the above are considered as alternative powertrain vehicles?
 - (d) None
 
 **Why correct:**
-> _[Your reasoning here]_
+> _[[Science-Alternative-Powertrains]]_
 
 ---
 
@@ -43,12 +43,12 @@ With reference to Unmanned Aerial Vehicles (UAVs), consider the following statem
 How many of the statements given above are correct?
 
 - (a) Only one
-- **(b) Only two** ✅
+- (b) Only two 
 - (c) All the three
-- (d) None
+- **(d) None** ✅
 
 **Why correct:**
-> _[Your reasoning here]_
+> _[[Unmanned Aerial Vehicles]]_
 
 ---
 
@@ -68,7 +68,7 @@ How many of the above usually make up battery cathodes?
 - (d) All the four
 
 **Why correct:**
-> _[Your reasoning here]_
+> _[[Electric Vehicles]]_
 
 ---
 
@@ -306,4 +306,3 @@ Artificial way of causing rainfall to reduce air pollution makes use of:
 ## Links
 - [[PYQ-Index-2025]]
 - [[PYQ-2025-Environment]]
-- [[MOC-Geography]]

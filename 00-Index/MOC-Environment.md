@@ -24,4 +24,4 @@ Short: Environmental ecology, biodiversity, and climate change for GS Paper 3.
 ## Related MOCs
 
 - [[MOC-GS]]
-- [[MOC-Geography]]
+- [[MOC-Current-Affairs]]

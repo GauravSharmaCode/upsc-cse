@@ -22,7 +22,7 @@ Read this before doing anything else.
 10-Static/         → Atomic topic notes (evergreen, source-based)
 20-Current-Affairs/→ Date-prefixed news/CA notes
 30-Optional/       → Optional subject (not active yet)
-40-Practice/       → PYQs, answer writing (not active yet)
+40-Practice/       → PYQs, answer writing
 assets/            → PDFs, images (excluded from graph)
 .ai/               → AI instructions (this file lives here conceptually)
 ```
@@ -113,12 +113,12 @@ When creating or editing notes in this vault:
 
 ---
 
-## Current Priorities (update this section regularly)
+## Current Priorities (updated 2026-03-28)
 
-1. Fill `Geography-Climate.md` and `Geography-Insolation.md`
-2. Create Polity notes: `Polity-Constitution-Making.md`, `Polity-Fundamental-Rights.md`, `Polity-Parliament.md`
-3. Start `20-Current-Affairs/` with at least one note per day
-4. Link all static Polity notes back to `MOC-Polity.md`
+1. Create Polity notes: `Polity-Preamble.md`, `Polity-Union-Territories.md`, `Polity-Citizenship.md`.
+2. Expand Geography: Create `Geography-Monsoon.md` and `Geography-Ocean-Currents.md`.
+3. Practice: Start mapping PYQ 2025 questions in the newly created notes.
+4. CA: Maintain daily note creation in `20-Current-Affairs/`.
 
 ---
 

@@ -93,11 +93,11 @@ Which of the statements given above is/are correct?
 
 Consider the following pairs:
 
-| Event | Year |
-|---|---|
-| I. International Year of the Woman Farmer | 2026 |
-| II. International Year of Sustainable and Resilient Tourism | 2027 |
-| III. International Year of Peace and Trust | 2025 |
+| Event                                                              | Year |
+| ------------------------------------------------------------------ | ---- |
+| I. International Year of the Woman Farmer                          | 2026 |
+| II. International Year of Sustainable and Resilient Tourism        | 2027 |
+| III. International Year of Peace and Trust                         | 2025 |
 | IV. International Year of Asteroid Awareness and Planetary Defence | 2029 |
 
 How many of the pairs given above are correctly matched?

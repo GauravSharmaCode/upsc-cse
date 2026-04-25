@@ -32,7 +32,7 @@ How many of the above are members of the North Atlantic Treaty Organization?
 - (d) All the six
 
 **Why correct:**
-> _[Your reasoning here]_
+> _[[National Atlantic Treaty Organization]]_
 
 ---
 
