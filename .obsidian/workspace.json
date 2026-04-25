@@ -11,12 +11,41 @@
             "id": "2483717c7dbc54bc",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.10.3"
+                "file": "10-Static/Polity-President of India.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "icon": "lucide-file",
+              "title": "Polity-President of India"
+            }
+          },
+          {
+            "id": "9ba5da70dd417f4a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alternative Powertrains.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alternative Powertrains"
+            }
+          },
+          {
+            "id": "56a462cf419006e9",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "Untitled 2.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled 2"
             }
           }
         ]
@@ -76,8 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "327963d59b7910fe",
@@ -162,46 +190,47 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "terminal:Open terminal": false
     }
   },
-  "active": "2483717c7dbc54bc",
+  "active": "15747c0eabeaf4fa",
   "lastOpenFiles": [
-    "CA-Science-Tech.md",
-    "40-Practice/PYQ-2025/PYQ-Index-2025.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Science-Technology.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Polity.md",
-    "40-Practice/PYQ-2025/PYQ-2025-International-Relations.md",
-    "40-Practice/PYQ-2025/PYQ-2025-History-Modern.md",
-    "40-Practice/PYQ-2025/PYQ-2025-History-Ancient-Medieval.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Geography.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Environment-Ecology.md",
-    "40-Practice/PYQ-2025/PYQ-2025-Economy.md",
-    "40-Practice/PYQ-2025",
-    "assets/README.md",
-    "assets",
-    "40-Practice/README.md",
-    "40-Practice",
-    "30-Optional/README.md",
-    "30-Optional",
-    "20-Current-Affairs/README.md",
-    "20-Current-Affairs",
-    "10-Static/Polity-Historical-Background.md",
+    "10-Static/Science-Alternative-Powertrains.md",
+    "gemini/plans/2026-04-25-vault-restructuring-plan.md",
+    "gemini/plans/2026-04-25-vault-restructuring.md",
+    "10-Static/Polity-Fundamental-Rights.md",
+    "10-Static/Polity-President of India.md",
+    "10-Static/Polity-Constitution-Making.md",
     "10-Static/Polity-Governor-Generals-Bengal.md",
-    "10-Static/Polity-Charter-Acts.md",
-    "10-Static/Geography-Insolation.md",
-    "10-Static/Geography-Atmosphere.md",
-    "10-Static/Geography-Climate.md",
-    "10-Static",
-    "00-Index/_templates/_template-topic.md",
-    "00-Index/_templates/_template-moc.md",
-    "00-Index/_templates/_template-ca.md",
-    "00-Index/MOC-History.md",
-    "00-Index/_templates",
+    "10-Static/Polity-Historical-Background.md",
+    "10-Static/Polity-Preamble.md",
+    "10-Static/Polity-Parliament.md",
+    "40-Practice/PYQ-2024/PYQ-2024-Polity.md",
+    "40-Practice/PYQ-2024/PYQ-2024-Environment-Ecology.md",
+    "40-Practice/PYQ-2024/PYQ-2024-Economy.md",
+    "40-Practice/PYQ-2025/PYQ-Index-2025.md",
+    "40-Practice/PYQ-2025/PYQ-2025-Economy.md",
+    "40-Practice/PYQ-2024/PYQ-Index-2024.md",
+    "40-Practice/PYQ-2024/PYQ-2024-History.md",
+    "40-Practice/PYQ-2024/PYQ-2024-SciTech-IR-CA.md",
+    "40-Practice/PYQ-2024/PYQ-2024-Science-Technology.md",
+    "20-Current-Affairs/2026-03-28 - The Hindu - Governor-Power-to-Withhold-Assent.md",
+    "40-Practice/PYQ-2024/PYQ-2024-History-Art-Culture.md",
+    "40-Practice/PYQ-2024/PYQ-2024-Geography.md",
+    "assets/README.md",
+    "assets/VisionIAS_UPSC_GS_2024_Solution_Analysis_Explanation.pdf",
+    "PYQ-2024-History-Ancient-Medieval.md",
     "00-Index/README.md",
-    "00-Index/MOC-Polity.md",
-    "00-Index",
-    "attachments",
-    "4-Misc"
+    "40-Practice/PYQ-2025/PYQ-2025-Geography.md",
+    "40-Practice/PYQ-2024",
+    "gemini/plans",
+    "gemini",
+    "Untitled 2.base",
+    "Untitled 1.base",
+    "Untitled.base",
+    "40-Practice/PYQ-2025",
+    "assets",
+    "40-Practice"
   ]
 }

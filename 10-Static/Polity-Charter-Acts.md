@@ -39,4 +39,4 @@ The Charter Acts were passed by the British Parliament to renew the East India C
 
 ## Links
 - [[Polity-Historical-Background]]
-- [[MOC-History]]
+- [[MOC-Polity]]

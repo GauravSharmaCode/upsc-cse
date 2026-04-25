@@ -20,8 +20,3 @@ Short: Environmental ecology, biodiversity, and climate change for GS Paper 3.
 ## Important links / timelines
 
 - [[Environmental-Treaties]]
-
-## Related MOCs
-
-- [[MOC-GS]]
-- [[MOC-Geography]]
